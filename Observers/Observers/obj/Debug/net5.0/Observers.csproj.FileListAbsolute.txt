@@ -1,0 +1,16 @@
+C:\Users\Adel_Kalu\source\repos\Observers\Observers\bin\Debug\net5.0\Observers.exe
+C:\Users\Adel_Kalu\source\repos\Observers\Observers\bin\Debug\net5.0\Observers.deps.json
+C:\Users\Adel_Kalu\source\repos\Observers\Observers\bin\Debug\net5.0\Observers.runtimeconfig.json
+C:\Users\Adel_Kalu\source\repos\Observers\Observers\bin\Debug\net5.0\Observers.runtimeconfig.dev.json
+C:\Users\Adel_Kalu\source\repos\Observers\Observers\bin\Debug\net5.0\Observers.dll
+C:\Users\Adel_Kalu\source\repos\Observers\Observers\bin\Debug\net5.0\ref\Observers.dll
+C:\Users\Adel_Kalu\source\repos\Observers\Observers\bin\Debug\net5.0\Observers.pdb
+C:\Users\Adel_Kalu\source\repos\Observers\Observers\obj\Debug\net5.0\Observers.csproj.AssemblyReference.cache
+C:\Users\Adel_Kalu\source\repos\Observers\Observers\obj\Debug\net5.0\Observers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adel_Kalu\source\repos\Observers\Observers\obj\Debug\net5.0\Observers.AssemblyInfoInputs.cache
+C:\Users\Adel_Kalu\source\repos\Observers\Observers\obj\Debug\net5.0\Observers.AssemblyInfo.cs
+C:\Users\Adel_Kalu\source\repos\Observers\Observers\obj\Debug\net5.0\Observers.csproj.CoreCompileInputs.cache
+C:\Users\Adel_Kalu\source\repos\Observers\Observers\obj\Debug\net5.0\Observers.dll
+C:\Users\Adel_Kalu\source\repos\Observers\Observers\obj\Debug\net5.0\ref\Observers.dll
+C:\Users\Adel_Kalu\source\repos\Observers\Observers\obj\Debug\net5.0\Observers.pdb
+C:\Users\Adel_Kalu\source\repos\Observers\Observers\obj\Debug\net5.0\Observers.genruntimeconfig.cache

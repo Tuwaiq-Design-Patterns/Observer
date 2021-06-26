@@ -1,0 +1,16 @@
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\Observer\Store\Store\bin\Debug\net5.0\Store.exe
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\Observer\Store\Store\bin\Debug\net5.0\Store.deps.json
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\Observer\Store\Store\bin\Debug\net5.0\Store.runtimeconfig.json
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\Observer\Store\Store\bin\Debug\net5.0\Store.runtimeconfig.dev.json
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\Observer\Store\Store\bin\Debug\net5.0\Store.dll
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\Observer\Store\Store\bin\Debug\net5.0\ref\Store.dll
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\Observer\Store\Store\bin\Debug\net5.0\Store.pdb
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\Observer\Store\Store\obj\Debug\net5.0\Store.csprojAssemblyReference.cache
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\Observer\Store\Store\obj\Debug\net5.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\Observer\Store\Store\obj\Debug\net5.0\Store.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\Observer\Store\Store\obj\Debug\net5.0\Store.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\Observer\Store\Store\obj\Debug\net5.0\Store.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\Observer\Store\Store\obj\Debug\net5.0\Store.dll
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\Observer\Store\Store\obj\Debug\net5.0\ref\Store.dll
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\Observer\Store\Store\obj\Debug\net5.0\Store.pdb
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\Observer\Store\Store\obj\Debug\net5.0\Store.genruntimeconfig.cache

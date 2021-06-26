@@ -3,7 +3,8 @@
 
 ## UML:
 
-(https://github.com/ArwaWanla/Observer/files/6720734/observerUML.pdf)
+![observerUML](https://user-images.githubusercontent.com/82481987/123526823-139e6500-d6e3-11eb-8f54-095a268e80cc.png)
+
 
 ## output:
 <img width="456" alt="Screen Shot 2021-06-27 at 12 52 40 am" src="https://user-images.githubusercontent.com/82481987/123526655-0b91f580-d6e2-11eb-9297-474a8a05838f.png">

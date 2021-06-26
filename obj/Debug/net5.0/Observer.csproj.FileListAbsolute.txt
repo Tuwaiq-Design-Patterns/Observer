@@ -1,0 +1,16 @@
+D:\Tuwaiq\ClassDesignPattern\Observer\bin\Debug\net5.0\Observer.exe
+D:\Tuwaiq\ClassDesignPattern\Observer\bin\Debug\net5.0\Observer.deps.json
+D:\Tuwaiq\ClassDesignPattern\Observer\bin\Debug\net5.0\Observer.runtimeconfig.json
+D:\Tuwaiq\ClassDesignPattern\Observer\bin\Debug\net5.0\Observer.runtimeconfig.dev.json
+D:\Tuwaiq\ClassDesignPattern\Observer\bin\Debug\net5.0\Observer.dll
+D:\Tuwaiq\ClassDesignPattern\Observer\bin\Debug\net5.0\ref\Observer.dll
+D:\Tuwaiq\ClassDesignPattern\Observer\bin\Debug\net5.0\Observer.pdb
+D:\Tuwaiq\ClassDesignPattern\Observer\obj\Debug\net5.0\Observer.csprojAssemblyReference.cache
+D:\Tuwaiq\ClassDesignPattern\Observer\obj\Debug\net5.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tuwaiq\ClassDesignPattern\Observer\obj\Debug\net5.0\Observer.AssemblyInfoInputs.cache
+D:\Tuwaiq\ClassDesignPattern\Observer\obj\Debug\net5.0\Observer.AssemblyInfo.cs
+D:\Tuwaiq\ClassDesignPattern\Observer\obj\Debug\net5.0\Observer.csproj.CoreCompileInputs.cache
+D:\Tuwaiq\ClassDesignPattern\Observer\obj\Debug\net5.0\Observer.dll
+D:\Tuwaiq\ClassDesignPattern\Observer\obj\Debug\net5.0\ref\Observer.dll
+D:\Tuwaiq\ClassDesignPattern\Observer\obj\Debug\net5.0\Observer.pdb
+D:\Tuwaiq\ClassDesignPattern\Observer\obj\Debug\net5.0\Observer.genruntimeconfig.cache

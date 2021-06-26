@@ -1,0 +1,15 @@
+C:\Users\temx3\source\repos\Observer_1\Observer_1\bin\Debug\net5.0\Observer_1.exe
+C:\Users\temx3\source\repos\Observer_1\Observer_1\bin\Debug\net5.0\Observer_1.deps.json
+C:\Users\temx3\source\repos\Observer_1\Observer_1\bin\Debug\net5.0\Observer_1.runtimeconfig.json
+C:\Users\temx3\source\repos\Observer_1\Observer_1\bin\Debug\net5.0\Observer_1.runtimeconfig.dev.json
+C:\Users\temx3\source\repos\Observer_1\Observer_1\bin\Debug\net5.0\Observer_1.dll
+C:\Users\temx3\source\repos\Observer_1\Observer_1\bin\Debug\net5.0\ref\Observer_1.dll
+C:\Users\temx3\source\repos\Observer_1\Observer_1\bin\Debug\net5.0\Observer_1.pdb
+C:\Users\temx3\source\repos\Observer_1\Observer_1\obj\Debug\net5.0\Observer_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temx3\source\repos\Observer_1\Observer_1\obj\Debug\net5.0\Observer_1.AssemblyInfoInputs.cache
+C:\Users\temx3\source\repos\Observer_1\Observer_1\obj\Debug\net5.0\Observer_1.AssemblyInfo.cs
+C:\Users\temx3\source\repos\Observer_1\Observer_1\obj\Debug\net5.0\Observer_1.csproj.CoreCompileInputs.cache
+C:\Users\temx3\source\repos\Observer_1\Observer_1\obj\Debug\net5.0\Observer_1.dll
+C:\Users\temx3\source\repos\Observer_1\Observer_1\obj\Debug\net5.0\ref\Observer_1.dll
+C:\Users\temx3\source\repos\Observer_1\Observer_1\obj\Debug\net5.0\Observer_1.pdb
+C:\Users\temx3\source\repos\Observer_1\Observer_1\obj\Debug\net5.0\Observer_1.genruntimeconfig.cache

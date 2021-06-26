@@ -1,0 +1,16 @@
+C:\Users\aashq\source\repos\ObserverDesign\ObserverDesign\bin\Debug\net5.0\ObserverDesign.exe
+C:\Users\aashq\source\repos\ObserverDesign\ObserverDesign\bin\Debug\net5.0\ObserverDesign.deps.json
+C:\Users\aashq\source\repos\ObserverDesign\ObserverDesign\bin\Debug\net5.0\ObserverDesign.runtimeconfig.json
+C:\Users\aashq\source\repos\ObserverDesign\ObserverDesign\bin\Debug\net5.0\ObserverDesign.runtimeconfig.dev.json
+C:\Users\aashq\source\repos\ObserverDesign\ObserverDesign\bin\Debug\net5.0\ObserverDesign.dll
+C:\Users\aashq\source\repos\ObserverDesign\ObserverDesign\bin\Debug\net5.0\ref\ObserverDesign.dll
+C:\Users\aashq\source\repos\ObserverDesign\ObserverDesign\bin\Debug\net5.0\ObserverDesign.pdb
+C:\Users\aashq\source\repos\ObserverDesign\ObserverDesign\obj\Debug\net5.0\ObserverDesign.csprojAssemblyReference.cache
+C:\Users\aashq\source\repos\ObserverDesign\ObserverDesign\obj\Debug\net5.0\ObserverDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aashq\source\repos\ObserverDesign\ObserverDesign\obj\Debug\net5.0\ObserverDesign.AssemblyInfoInputs.cache
+C:\Users\aashq\source\repos\ObserverDesign\ObserverDesign\obj\Debug\net5.0\ObserverDesign.AssemblyInfo.cs
+C:\Users\aashq\source\repos\ObserverDesign\ObserverDesign\obj\Debug\net5.0\ObserverDesign.csproj.CoreCompileInputs.cache
+C:\Users\aashq\source\repos\ObserverDesign\ObserverDesign\obj\Debug\net5.0\ObserverDesign.dll
+C:\Users\aashq\source\repos\ObserverDesign\ObserverDesign\obj\Debug\net5.0\ref\ObserverDesign.dll
+C:\Users\aashq\source\repos\ObserverDesign\ObserverDesign\obj\Debug\net5.0\ObserverDesign.pdb
+C:\Users\aashq\source\repos\ObserverDesign\ObserverDesign\obj\Debug\net5.0\ObserverDesign.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\lenovo1\RiderProjects\ObserverDrill\ObserverDrill\obj\Debug\net5.0\ObserverDrill.csprojAssemblyReference.cache
+C:\Users\lenovo1\RiderProjects\ObserverDrill\ObserverDrill\obj\Debug\net5.0\ObserverDrill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo1\RiderProjects\ObserverDrill\ObserverDrill\obj\Debug\net5.0\ObserverDrill.AssemblyInfoInputs.cache
+C:\Users\lenovo1\RiderProjects\ObserverDrill\ObserverDrill\obj\Debug\net5.0\ObserverDrill.AssemblyInfo.cs
+C:\Users\lenovo1\RiderProjects\ObserverDrill\ObserverDrill\obj\Debug\net5.0\ObserverDrill.csproj.CoreCompileInputs.cache
+C:\Users\lenovo1\RiderProjects\ObserverDrill\ObserverDrill\bin\Debug\net5.0\ObserverDrill.exe
+C:\Users\lenovo1\RiderProjects\ObserverDrill\ObserverDrill\bin\Debug\net5.0\ObserverDrill.deps.json
+C:\Users\lenovo1\RiderProjects\ObserverDrill\ObserverDrill\bin\Debug\net5.0\ObserverDrill.runtimeconfig.json
+C:\Users\lenovo1\RiderProjects\ObserverDrill\ObserverDrill\bin\Debug\net5.0\ObserverDrill.runtimeconfig.dev.json
+C:\Users\lenovo1\RiderProjects\ObserverDrill\ObserverDrill\bin\Debug\net5.0\ObserverDrill.dll
+C:\Users\lenovo1\RiderProjects\ObserverDrill\ObserverDrill\bin\Debug\net5.0\ref\ObserverDrill.dll
+C:\Users\lenovo1\RiderProjects\ObserverDrill\ObserverDrill\bin\Debug\net5.0\ObserverDrill.pdb
+C:\Users\lenovo1\RiderProjects\ObserverDrill\ObserverDrill\obj\Debug\net5.0\ObserverDrill.dll
+C:\Users\lenovo1\RiderProjects\ObserverDrill\ObserverDrill\obj\Debug\net5.0\ref\ObserverDrill.dll
+C:\Users\lenovo1\RiderProjects\ObserverDrill\ObserverDrill\obj\Debug\net5.0\ObserverDrill.pdb
+C:\Users\lenovo1\RiderProjects\ObserverDrill\ObserverDrill\obj\Debug\net5.0\ObserverDrill.genruntimeconfig.cache

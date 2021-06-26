@@ -1,2 +1,6 @@
 # Observer
-this repo contains Observer design pattern implementation using C#
+
+
+## Class Diagram 
+
+![alt text](https://github.com/aldundur-Mansour/Observer/blob/main/ObserverUML.PNG?raw=true)

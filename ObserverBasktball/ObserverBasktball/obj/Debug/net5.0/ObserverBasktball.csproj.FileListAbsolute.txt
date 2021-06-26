@@ -1,0 +1,16 @@
+C:\Users\Shaha\source\repos\ObserverBasktball\ObserverBasktball\obj\Debug\net5.0\ObserverBasktball.csproj.AssemblyReference.cache
+C:\Users\Shaha\source\repos\ObserverBasktball\ObserverBasktball\obj\Debug\net5.0\ObserverBasktball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaha\source\repos\ObserverBasktball\ObserverBasktball\obj\Debug\net5.0\ObserverBasktball.AssemblyInfoInputs.cache
+C:\Users\Shaha\source\repos\ObserverBasktball\ObserverBasktball\obj\Debug\net5.0\ObserverBasktball.AssemblyInfo.cs
+C:\Users\Shaha\source\repos\ObserverBasktball\ObserverBasktball\obj\Debug\net5.0\ObserverBasktball.csproj.CoreCompileInputs.cache
+C:\Users\Shaha\source\repos\ObserverBasktball\ObserverBasktball\bin\Debug\net5.0\ObserverBasktball.exe
+C:\Users\Shaha\source\repos\ObserverBasktball\ObserverBasktball\bin\Debug\net5.0\ObserverBasktball.deps.json
+C:\Users\Shaha\source\repos\ObserverBasktball\ObserverBasktball\bin\Debug\net5.0\ObserverBasktball.runtimeconfig.json
+C:\Users\Shaha\source\repos\ObserverBasktball\ObserverBasktball\bin\Debug\net5.0\ObserverBasktball.runtimeconfig.dev.json
+C:\Users\Shaha\source\repos\ObserverBasktball\ObserverBasktball\bin\Debug\net5.0\ObserverBasktball.dll
+C:\Users\Shaha\source\repos\ObserverBasktball\ObserverBasktball\bin\Debug\net5.0\ref\ObserverBasktball.dll
+C:\Users\Shaha\source\repos\ObserverBasktball\ObserverBasktball\bin\Debug\net5.0\ObserverBasktball.pdb
+C:\Users\Shaha\source\repos\ObserverBasktball\ObserverBasktball\obj\Debug\net5.0\ObserverBasktball.dll
+C:\Users\Shaha\source\repos\ObserverBasktball\ObserverBasktball\obj\Debug\net5.0\ref\ObserverBasktball.dll
+C:\Users\Shaha\source\repos\ObserverBasktball\ObserverBasktball\obj\Debug\net5.0\ObserverBasktball.pdb
+C:\Users\Shaha\source\repos\ObserverBasktball\ObserverBasktball\obj\Debug\net5.0\ObserverBasktball.genruntimeconfig.cache

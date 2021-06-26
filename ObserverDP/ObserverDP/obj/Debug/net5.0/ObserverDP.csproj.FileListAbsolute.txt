@@ -1,0 +1,16 @@
+C:\Users\h--sa\RiderProjects\ObserverDP\ObserverDP\bin\Debug\net5.0\ObserverDP.exe
+C:\Users\h--sa\RiderProjects\ObserverDP\ObserverDP\bin\Debug\net5.0\ObserverDP.deps.json
+C:\Users\h--sa\RiderProjects\ObserverDP\ObserverDP\bin\Debug\net5.0\ObserverDP.runtimeconfig.json
+C:\Users\h--sa\RiderProjects\ObserverDP\ObserverDP\bin\Debug\net5.0\ObserverDP.runtimeconfig.dev.json
+C:\Users\h--sa\RiderProjects\ObserverDP\ObserverDP\bin\Debug\net5.0\ObserverDP.dll
+C:\Users\h--sa\RiderProjects\ObserverDP\ObserverDP\bin\Debug\net5.0\ref\ObserverDP.dll
+C:\Users\h--sa\RiderProjects\ObserverDP\ObserverDP\bin\Debug\net5.0\ObserverDP.pdb
+C:\Users\h--sa\RiderProjects\ObserverDP\ObserverDP\obj\Debug\net5.0\ObserverDP.csprojAssemblyReference.cache
+C:\Users\h--sa\RiderProjects\ObserverDP\ObserverDP\obj\Debug\net5.0\ObserverDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h--sa\RiderProjects\ObserverDP\ObserverDP\obj\Debug\net5.0\ObserverDP.AssemblyInfoInputs.cache
+C:\Users\h--sa\RiderProjects\ObserverDP\ObserverDP\obj\Debug\net5.0\ObserverDP.AssemblyInfo.cs
+C:\Users\h--sa\RiderProjects\ObserverDP\ObserverDP\obj\Debug\net5.0\ObserverDP.csproj.CoreCompileInputs.cache
+C:\Users\h--sa\RiderProjects\ObserverDP\ObserverDP\obj\Debug\net5.0\ObserverDP.dll
+C:\Users\h--sa\RiderProjects\ObserverDP\ObserverDP\obj\Debug\net5.0\ref\ObserverDP.dll
+C:\Users\h--sa\RiderProjects\ObserverDP\ObserverDP\obj\Debug\net5.0\ObserverDP.pdb
+C:\Users\h--sa\RiderProjects\ObserverDP\ObserverDP\obj\Debug\net5.0\ObserverDP.genruntimeconfig.cache

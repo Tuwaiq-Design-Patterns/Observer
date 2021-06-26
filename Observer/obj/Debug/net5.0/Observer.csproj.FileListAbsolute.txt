@@ -1,0 +1,16 @@
+C:\Users\rooke\Desktop\Observer\Observer\bin\Debug\net5.0\Observer.exe
+C:\Users\rooke\Desktop\Observer\Observer\bin\Debug\net5.0\Observer.deps.json
+C:\Users\rooke\Desktop\Observer\Observer\bin\Debug\net5.0\Observer.runtimeconfig.json
+C:\Users\rooke\Desktop\Observer\Observer\bin\Debug\net5.0\Observer.runtimeconfig.dev.json
+C:\Users\rooke\Desktop\Observer\Observer\bin\Debug\net5.0\Observer.dll
+C:\Users\rooke\Desktop\Observer\Observer\bin\Debug\net5.0\ref\Observer.dll
+C:\Users\rooke\Desktop\Observer\Observer\bin\Debug\net5.0\Observer.pdb
+C:\Users\rooke\Desktop\Observer\Observer\obj\Debug\net5.0\Observer.csproj.AssemblyReference.cache
+C:\Users\rooke\Desktop\Observer\Observer\obj\Debug\net5.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rooke\Desktop\Observer\Observer\obj\Debug\net5.0\Observer.AssemblyInfoInputs.cache
+C:\Users\rooke\Desktop\Observer\Observer\obj\Debug\net5.0\Observer.AssemblyInfo.cs
+C:\Users\rooke\Desktop\Observer\Observer\obj\Debug\net5.0\Observer.csproj.CoreCompileInputs.cache
+C:\Users\rooke\Desktop\Observer\Observer\obj\Debug\net5.0\Observer.dll
+C:\Users\rooke\Desktop\Observer\Observer\obj\Debug\net5.0\ref\Observer.dll
+C:\Users\rooke\Desktop\Observer\Observer\obj\Debug\net5.0\Observer.pdb
+C:\Users\rooke\Desktop\Observer\Observer\obj\Debug\net5.0\Observer.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Pivot85\source\repos\ObserverDP\bin\Debug\net5.0\ObserverDP.exe
+C:\Users\Pivot85\source\repos\ObserverDP\bin\Debug\net5.0\ObserverDP.deps.json
+C:\Users\Pivot85\source\repos\ObserverDP\bin\Debug\net5.0\ObserverDP.runtimeconfig.json
+C:\Users\Pivot85\source\repos\ObserverDP\bin\Debug\net5.0\ObserverDP.runtimeconfig.dev.json
+C:\Users\Pivot85\source\repos\ObserverDP\bin\Debug\net5.0\ObserverDP.dll
+C:\Users\Pivot85\source\repos\ObserverDP\bin\Debug\net5.0\ref\ObserverDP.dll
+C:\Users\Pivot85\source\repos\ObserverDP\bin\Debug\net5.0\ObserverDP.pdb
+C:\Users\Pivot85\source\repos\ObserverDP\obj\Debug\net5.0\ObserverDP.csproj.AssemblyReference.cache
+C:\Users\Pivot85\source\repos\ObserverDP\obj\Debug\net5.0\ObserverDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pivot85\source\repos\ObserverDP\obj\Debug\net5.0\ObserverDP.AssemblyInfoInputs.cache
+C:\Users\Pivot85\source\repos\ObserverDP\obj\Debug\net5.0\ObserverDP.AssemblyInfo.cs
+C:\Users\Pivot85\source\repos\ObserverDP\obj\Debug\net5.0\ObserverDP.csproj.CoreCompileInputs.cache
+C:\Users\Pivot85\source\repos\ObserverDP\obj\Debug\net5.0\ObserverDP.dll
+C:\Users\Pivot85\source\repos\ObserverDP\obj\Debug\net5.0\ref\ObserverDP.dll
+C:\Users\Pivot85\source\repos\ObserverDP\obj\Debug\net5.0\ObserverDP.pdb
+C:\Users\Pivot85\source\repos\ObserverDP\obj\Debug\net5.0\ObserverDP.genruntimeconfig.cache

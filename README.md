@@ -6,7 +6,7 @@ This repo contains Observer design pattern implementation using C#
 
 
 ## UML 
-<img src="Observer_UML.png" />
+<img src="UMLObserver.png" />
 
 ## Output 
 

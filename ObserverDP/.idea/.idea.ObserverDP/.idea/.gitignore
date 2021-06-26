@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.ObserverDP.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\h--sa\RiderProjects\ObserverDP\.idea\.idea.ObserverDP\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

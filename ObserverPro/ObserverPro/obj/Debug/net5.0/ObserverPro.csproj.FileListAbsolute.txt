@@ -1,0 +1,16 @@
+C:\Users\rhm30\OneDrive\Desktop\Tuwiq\DP\PROJECTS\Observer\Observer\ObserverPro\ObserverPro\bin\Debug\net5.0\ObserverPro.exe
+C:\Users\rhm30\OneDrive\Desktop\Tuwiq\DP\PROJECTS\Observer\Observer\ObserverPro\ObserverPro\bin\Debug\net5.0\ObserverPro.deps.json
+C:\Users\rhm30\OneDrive\Desktop\Tuwiq\DP\PROJECTS\Observer\Observer\ObserverPro\ObserverPro\bin\Debug\net5.0\ObserverPro.runtimeconfig.json
+C:\Users\rhm30\OneDrive\Desktop\Tuwiq\DP\PROJECTS\Observer\Observer\ObserverPro\ObserverPro\bin\Debug\net5.0\ObserverPro.runtimeconfig.dev.json
+C:\Users\rhm30\OneDrive\Desktop\Tuwiq\DP\PROJECTS\Observer\Observer\ObserverPro\ObserverPro\bin\Debug\net5.0\ObserverPro.dll
+C:\Users\rhm30\OneDrive\Desktop\Tuwiq\DP\PROJECTS\Observer\Observer\ObserverPro\ObserverPro\bin\Debug\net5.0\ref\ObserverPro.dll
+C:\Users\rhm30\OneDrive\Desktop\Tuwiq\DP\PROJECTS\Observer\Observer\ObserverPro\ObserverPro\bin\Debug\net5.0\ObserverPro.pdb
+C:\Users\rhm30\OneDrive\Desktop\Tuwiq\DP\PROJECTS\Observer\Observer\ObserverPro\ObserverPro\obj\Debug\net5.0\ObserverPro.csprojAssemblyReference.cache
+C:\Users\rhm30\OneDrive\Desktop\Tuwiq\DP\PROJECTS\Observer\Observer\ObserverPro\ObserverPro\obj\Debug\net5.0\ObserverPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhm30\OneDrive\Desktop\Tuwiq\DP\PROJECTS\Observer\Observer\ObserverPro\ObserverPro\obj\Debug\net5.0\ObserverPro.AssemblyInfoInputs.cache
+C:\Users\rhm30\OneDrive\Desktop\Tuwiq\DP\PROJECTS\Observer\Observer\ObserverPro\ObserverPro\obj\Debug\net5.0\ObserverPro.AssemblyInfo.cs
+C:\Users\rhm30\OneDrive\Desktop\Tuwiq\DP\PROJECTS\Observer\Observer\ObserverPro\ObserverPro\obj\Debug\net5.0\ObserverPro.csproj.CoreCompileInputs.cache
+C:\Users\rhm30\OneDrive\Desktop\Tuwiq\DP\PROJECTS\Observer\Observer\ObserverPro\ObserverPro\obj\Debug\net5.0\ObserverPro.dll
+C:\Users\rhm30\OneDrive\Desktop\Tuwiq\DP\PROJECTS\Observer\Observer\ObserverPro\ObserverPro\obj\Debug\net5.0\ref\ObserverPro.dll
+C:\Users\rhm30\OneDrive\Desktop\Tuwiq\DP\PROJECTS\Observer\Observer\ObserverPro\ObserverPro\obj\Debug\net5.0\ObserverPro.pdb
+C:\Users\rhm30\OneDrive\Desktop\Tuwiq\DP\PROJECTS\Observer\Observer\ObserverPro\ObserverPro\obj\Debug\net5.0\ObserverPro.genruntimeconfig.cache

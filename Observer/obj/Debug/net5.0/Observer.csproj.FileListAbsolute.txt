@@ -1,0 +1,16 @@
+D:\repos\Observer\Observer\bin\Debug\net5.0\Observer.exe
+D:\repos\Observer\Observer\bin\Debug\net5.0\Observer.deps.json
+D:\repos\Observer\Observer\bin\Debug\net5.0\Observer.runtimeconfig.json
+D:\repos\Observer\Observer\bin\Debug\net5.0\Observer.runtimeconfig.dev.json
+D:\repos\Observer\Observer\bin\Debug\net5.0\Observer.dll
+D:\repos\Observer\Observer\bin\Debug\net5.0\ref\Observer.dll
+D:\repos\Observer\Observer\bin\Debug\net5.0\Observer.pdb
+D:\repos\Observer\Observer\obj\Debug\net5.0\Observer.csprojAssemblyReference.cache
+D:\repos\Observer\Observer\obj\Debug\net5.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Observer\Observer\obj\Debug\net5.0\Observer.AssemblyInfoInputs.cache
+D:\repos\Observer\Observer\obj\Debug\net5.0\Observer.AssemblyInfo.cs
+D:\repos\Observer\Observer\obj\Debug\net5.0\Observer.csproj.CoreCompileInputs.cache
+D:\repos\Observer\Observer\obj\Debug\net5.0\Observer.dll
+D:\repos\Observer\Observer\obj\Debug\net5.0\ref\Observer.dll
+D:\repos\Observer\Observer\obj\Debug\net5.0\Observer.pdb
+D:\repos\Observer\Observer\obj\Debug\net5.0\Observer.genruntimeconfig.cache

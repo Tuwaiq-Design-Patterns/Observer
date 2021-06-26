@@ -1,0 +1,12 @@
+/Users/hanans/Desktop/t/projects/Observer/observer/observer/obj/Debug/netcoreapp3.1/observer.csproj.AssemblyReference.cache
+/Users/hanans/Desktop/t/projects/Observer/observer/observer/obj/Debug/netcoreapp3.1/observer.AssemblyInfoInputs.cache
+/Users/hanans/Desktop/t/projects/Observer/observer/observer/obj/Debug/netcoreapp3.1/observer.AssemblyInfo.cs
+/Users/hanans/Desktop/t/projects/Observer/observer/observer/obj/Debug/netcoreapp3.1/observer.csproj.CoreCompileInputs.cache
+/Users/hanans/Desktop/t/projects/Observer/observer/observer/bin/Debug/netcoreapp3.1/observer.deps.json
+/Users/hanans/Desktop/t/projects/Observer/observer/observer/bin/Debug/netcoreapp3.1/observer.runtimeconfig.json
+/Users/hanans/Desktop/t/projects/Observer/observer/observer/bin/Debug/netcoreapp3.1/observer.runtimeconfig.dev.json
+/Users/hanans/Desktop/t/projects/Observer/observer/observer/bin/Debug/netcoreapp3.1/observer.dll
+/Users/hanans/Desktop/t/projects/Observer/observer/observer/bin/Debug/netcoreapp3.1/observer.pdb
+/Users/hanans/Desktop/t/projects/Observer/observer/observer/obj/Debug/netcoreapp3.1/observer.dll
+/Users/hanans/Desktop/t/projects/Observer/observer/observer/obj/Debug/netcoreapp3.1/observer.pdb
+/Users/hanans/Desktop/t/projects/Observer/observer/observer/obj/Debug/netcoreapp3.1/observer.genruntimeconfig.cache

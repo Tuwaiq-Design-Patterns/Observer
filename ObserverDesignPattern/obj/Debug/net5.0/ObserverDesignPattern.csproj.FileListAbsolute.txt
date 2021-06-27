@@ -1,0 +1,16 @@
+C:\Users\hiro1\Desktop\ObserverDesignPattern\bin\Debug\net5.0\ObserverDesignPattern.exe
+C:\Users\hiro1\Desktop\ObserverDesignPattern\bin\Debug\net5.0\ObserverDesignPattern.deps.json
+C:\Users\hiro1\Desktop\ObserverDesignPattern\bin\Debug\net5.0\ObserverDesignPattern.runtimeconfig.json
+C:\Users\hiro1\Desktop\ObserverDesignPattern\bin\Debug\net5.0\ObserverDesignPattern.runtimeconfig.dev.json
+C:\Users\hiro1\Desktop\ObserverDesignPattern\bin\Debug\net5.0\ObserverDesignPattern.dll
+C:\Users\hiro1\Desktop\ObserverDesignPattern\bin\Debug\net5.0\ref\ObserverDesignPattern.dll
+C:\Users\hiro1\Desktop\ObserverDesignPattern\bin\Debug\net5.0\ObserverDesignPattern.pdb
+C:\Users\hiro1\Desktop\ObserverDesignPattern\obj\Debug\net5.0\ObserverDesignPattern.csprojAssemblyReference.cache
+C:\Users\hiro1\Desktop\ObserverDesignPattern\obj\Debug\net5.0\ObserverDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiro1\Desktop\ObserverDesignPattern\obj\Debug\net5.0\ObserverDesignPattern.AssemblyInfoInputs.cache
+C:\Users\hiro1\Desktop\ObserverDesignPattern\obj\Debug\net5.0\ObserverDesignPattern.AssemblyInfo.cs
+C:\Users\hiro1\Desktop\ObserverDesignPattern\obj\Debug\net5.0\ObserverDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\hiro1\Desktop\ObserverDesignPattern\obj\Debug\net5.0\ObserverDesignPattern.dll
+C:\Users\hiro1\Desktop\ObserverDesignPattern\obj\Debug\net5.0\ref\ObserverDesignPattern.dll
+C:\Users\hiro1\Desktop\ObserverDesignPattern\obj\Debug\net5.0\ObserverDesignPattern.pdb
+C:\Users\hiro1\Desktop\ObserverDesignPattern\obj\Debug\net5.0\ObserverDesignPattern.genruntimeconfig.cache

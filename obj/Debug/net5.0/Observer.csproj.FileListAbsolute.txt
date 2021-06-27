@@ -1,0 +1,15 @@
+/Users/afra/Projects/Observer/Observer/bin/Debug/net5.0/Observer.deps.json
+/Users/afra/Projects/Observer/Observer/bin/Debug/net5.0/Observer.runtimeconfig.json
+/Users/afra/Projects/Observer/Observer/bin/Debug/net5.0/Observer.runtimeconfig.dev.json
+/Users/afra/Projects/Observer/Observer/bin/Debug/net5.0/Observer.dll
+/Users/afra/Projects/Observer/Observer/bin/Debug/net5.0/ref/Observer.dll
+/Users/afra/Projects/Observer/Observer/bin/Debug/net5.0/Observer.pdb
+/Users/afra/Projects/Observer/Observer/obj/Debug/net5.0/Observer.csproj.AssemblyReference.cache
+/Users/afra/Projects/Observer/Observer/obj/Debug/net5.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afra/Projects/Observer/Observer/obj/Debug/net5.0/Observer.AssemblyInfoInputs.cache
+/Users/afra/Projects/Observer/Observer/obj/Debug/net5.0/Observer.AssemblyInfo.cs
+/Users/afra/Projects/Observer/Observer/obj/Debug/net5.0/Observer.csproj.CoreCompileInputs.cache
+/Users/afra/Projects/Observer/Observer/obj/Debug/net5.0/Observer.dll
+/Users/afra/Projects/Observer/Observer/obj/Debug/net5.0/ref/Observer.dll
+/Users/afra/Projects/Observer/Observer/obj/Debug/net5.0/Observer.pdb
+/Users/afra/Projects/Observer/Observer/obj/Debug/net5.0/Observer.genruntimeconfig.cache

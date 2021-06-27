@@ -1,0 +1,12 @@
+/Users/nadaalotaibi/Desktop/Observer/Observer/obj/Debug/netcoreapp3.1/Observer.csprojAssemblyReference.cache
+/Users/nadaalotaibi/Desktop/Observer/Observer/obj/Debug/netcoreapp3.1/Observer.AssemblyInfoInputs.cache
+/Users/nadaalotaibi/Desktop/Observer/Observer/obj/Debug/netcoreapp3.1/Observer.AssemblyInfo.cs
+/Users/nadaalotaibi/Desktop/Observer/Observer/obj/Debug/netcoreapp3.1/Observer.csproj.CoreCompileInputs.cache
+/Users/nadaalotaibi/Desktop/Observer/Observer/bin/Debug/netcoreapp3.1/Observer.deps.json
+/Users/nadaalotaibi/Desktop/Observer/Observer/bin/Debug/netcoreapp3.1/Observer.runtimeconfig.json
+/Users/nadaalotaibi/Desktop/Observer/Observer/bin/Debug/netcoreapp3.1/Observer.runtimeconfig.dev.json
+/Users/nadaalotaibi/Desktop/Observer/Observer/bin/Debug/netcoreapp3.1/Observer.dll
+/Users/nadaalotaibi/Desktop/Observer/Observer/bin/Debug/netcoreapp3.1/Observer.pdb
+/Users/nadaalotaibi/Desktop/Observer/Observer/obj/Debug/netcoreapp3.1/Observer.dll
+/Users/nadaalotaibi/Desktop/Observer/Observer/obj/Debug/netcoreapp3.1/Observer.pdb
+/Users/nadaalotaibi/Desktop/Observer/Observer/obj/Debug/netcoreapp3.1/Observer.genruntimeconfig.cache

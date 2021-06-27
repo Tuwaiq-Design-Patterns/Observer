@@ -41,7 +41,7 @@ namespace ObserverDesignPattren
             }
             public void RegisterUsers(IUser user)
             {
-                Console.WriteLine("User added : " + ((User)user).UserName);
+                Console.WriteLine("User added : " + ((ObserverUser)user).UserName);
                 users.Add(user);
             }
             public void AddUsers(IUser user)
@@ -64,10 +64,10 @@ namespace ObserverDesignPattren
     }
 
 
-    public class User : IUser
+    public class ObserverUser : IUser
 {
     public string UserName { get; set; }
-    public User(string userName, IAmazon subject)
+    public ObserverUser(string userName, IAmazon subject)
     {
         UserName = userName;
         subject.RegisterUsers(this);
@@ -85,11 +85,11 @@ namespace ObserverDesignPattren
     {
         SubjectAmazon Iphone = new SubjectAmazon("Iphone", 3500, "Out Of Stock");
 
-        User user1 = new User("Norah", Iphone);
+        ObserverUser user1 = new ObserverUser("Norah", Iphone);
 
-        User user2 = new User("Taif", Iphone);
+        ObserverUser user2 = new ObserverUser("Taif", Iphone);
 
-        User user3 = new User("Afraa", Iphone);
+        ObserverUser user3 = new ObserverUser("Afraa", Iphone);
 
         Console.WriteLine("Iphone Availability : " + Iphone.getAvailability());
 

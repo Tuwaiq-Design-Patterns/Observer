@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SnapchatObserver/1.0.0": {
+        "runtime": {
+          "SnapchatObserver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SnapchatObserver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

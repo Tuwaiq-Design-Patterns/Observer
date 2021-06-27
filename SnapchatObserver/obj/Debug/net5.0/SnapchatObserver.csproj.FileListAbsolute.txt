@@ -1,0 +1,16 @@
+C:\Users\a-22_\RiderProjects\SnapchatObserver\SnapchatObserver\bin\Debug\net5.0\SnapchatObserver.exe
+C:\Users\a-22_\RiderProjects\SnapchatObserver\SnapchatObserver\bin\Debug\net5.0\SnapchatObserver.deps.json
+C:\Users\a-22_\RiderProjects\SnapchatObserver\SnapchatObserver\bin\Debug\net5.0\SnapchatObserver.runtimeconfig.json
+C:\Users\a-22_\RiderProjects\SnapchatObserver\SnapchatObserver\bin\Debug\net5.0\SnapchatObserver.runtimeconfig.dev.json
+C:\Users\a-22_\RiderProjects\SnapchatObserver\SnapchatObserver\bin\Debug\net5.0\SnapchatObserver.dll
+C:\Users\a-22_\RiderProjects\SnapchatObserver\SnapchatObserver\bin\Debug\net5.0\ref\SnapchatObserver.dll
+C:\Users\a-22_\RiderProjects\SnapchatObserver\SnapchatObserver\bin\Debug\net5.0\SnapchatObserver.pdb
+C:\Users\a-22_\RiderProjects\SnapchatObserver\SnapchatObserver\obj\Debug\net5.0\SnapchatObserver.csprojAssemblyReference.cache
+C:\Users\a-22_\RiderProjects\SnapchatObserver\SnapchatObserver\obj\Debug\net5.0\SnapchatObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a-22_\RiderProjects\SnapchatObserver\SnapchatObserver\obj\Debug\net5.0\SnapchatObserver.AssemblyInfoInputs.cache
+C:\Users\a-22_\RiderProjects\SnapchatObserver\SnapchatObserver\obj\Debug\net5.0\SnapchatObserver.AssemblyInfo.cs
+C:\Users\a-22_\RiderProjects\SnapchatObserver\SnapchatObserver\obj\Debug\net5.0\SnapchatObserver.csproj.CoreCompileInputs.cache
+C:\Users\a-22_\RiderProjects\SnapchatObserver\SnapchatObserver\obj\Debug\net5.0\SnapchatObserver.dll
+C:\Users\a-22_\RiderProjects\SnapchatObserver\SnapchatObserver\obj\Debug\net5.0\ref\SnapchatObserver.dll
+C:\Users\a-22_\RiderProjects\SnapchatObserver\SnapchatObserver\obj\Debug\net5.0\SnapchatObserver.pdb
+C:\Users\a-22_\RiderProjects\SnapchatObserver\SnapchatObserver\obj\Debug\net5.0\SnapchatObserver.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Samirah Alhusayni\source\repos\DP_Observer\DP_Observer\bin\Debug\net5.0\DP_Observer.exe
+C:\Users\Samirah Alhusayni\source\repos\DP_Observer\DP_Observer\bin\Debug\net5.0\DP_Observer.deps.json
+C:\Users\Samirah Alhusayni\source\repos\DP_Observer\DP_Observer\bin\Debug\net5.0\DP_Observer.runtimeconfig.json
+C:\Users\Samirah Alhusayni\source\repos\DP_Observer\DP_Observer\bin\Debug\net5.0\DP_Observer.runtimeconfig.dev.json
+C:\Users\Samirah Alhusayni\source\repos\DP_Observer\DP_Observer\bin\Debug\net5.0\DP_Observer.dll
+C:\Users\Samirah Alhusayni\source\repos\DP_Observer\DP_Observer\bin\Debug\net5.0\ref\DP_Observer.dll
+C:\Users\Samirah Alhusayni\source\repos\DP_Observer\DP_Observer\bin\Debug\net5.0\DP_Observer.pdb
+C:\Users\Samirah Alhusayni\source\repos\DP_Observer\DP_Observer\obj\Debug\net5.0\DP_Observer.csproj.AssemblyReference.cache
+C:\Users\Samirah Alhusayni\source\repos\DP_Observer\DP_Observer\obj\Debug\net5.0\DP_Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samirah Alhusayni\source\repos\DP_Observer\DP_Observer\obj\Debug\net5.0\DP_Observer.AssemblyInfoInputs.cache
+C:\Users\Samirah Alhusayni\source\repos\DP_Observer\DP_Observer\obj\Debug\net5.0\DP_Observer.AssemblyInfo.cs
+C:\Users\Samirah Alhusayni\source\repos\DP_Observer\DP_Observer\obj\Debug\net5.0\DP_Observer.csproj.CoreCompileInputs.cache
+C:\Users\Samirah Alhusayni\source\repos\DP_Observer\DP_Observer\obj\Debug\net5.0\DP_Observer.dll
+C:\Users\Samirah Alhusayni\source\repos\DP_Observer\DP_Observer\obj\Debug\net5.0\ref\DP_Observer.dll
+C:\Users\Samirah Alhusayni\source\repos\DP_Observer\DP_Observer\obj\Debug\net5.0\DP_Observer.pdb
+C:\Users\Samirah Alhusayni\source\repos\DP_Observer\DP_Observer\obj\Debug\net5.0\DP_Observer.genruntimeconfig.cache

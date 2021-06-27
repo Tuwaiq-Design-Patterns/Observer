@@ -1,0 +1,15 @@
+/Users/ahmed/Projects/Observer_Design_Pattern/Observer_Design_Pattern/bin/Debug/net5.0/Observer_Design_Pattern.deps.json
+/Users/ahmed/Projects/Observer_Design_Pattern/Observer_Design_Pattern/bin/Debug/net5.0/Observer_Design_Pattern.runtimeconfig.json
+/Users/ahmed/Projects/Observer_Design_Pattern/Observer_Design_Pattern/bin/Debug/net5.0/Observer_Design_Pattern.runtimeconfig.dev.json
+/Users/ahmed/Projects/Observer_Design_Pattern/Observer_Design_Pattern/bin/Debug/net5.0/Observer_Design_Pattern.dll
+/Users/ahmed/Projects/Observer_Design_Pattern/Observer_Design_Pattern/bin/Debug/net5.0/ref/Observer_Design_Pattern.dll
+/Users/ahmed/Projects/Observer_Design_Pattern/Observer_Design_Pattern/bin/Debug/net5.0/Observer_Design_Pattern.pdb
+/Users/ahmed/Projects/Observer_Design_Pattern/Observer_Design_Pattern/obj/Debug/net5.0/Observer_Design_Pattern.csprojAssemblyReference.cache
+/Users/ahmed/Projects/Observer_Design_Pattern/Observer_Design_Pattern/obj/Debug/net5.0/Observer_Design_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmed/Projects/Observer_Design_Pattern/Observer_Design_Pattern/obj/Debug/net5.0/Observer_Design_Pattern.AssemblyInfoInputs.cache
+/Users/ahmed/Projects/Observer_Design_Pattern/Observer_Design_Pattern/obj/Debug/net5.0/Observer_Design_Pattern.AssemblyInfo.cs
+/Users/ahmed/Projects/Observer_Design_Pattern/Observer_Design_Pattern/obj/Debug/net5.0/Observer_Design_Pattern.csproj.CoreCompileInputs.cache
+/Users/ahmed/Projects/Observer_Design_Pattern/Observer_Design_Pattern/obj/Debug/net5.0/Observer_Design_Pattern.dll
+/Users/ahmed/Projects/Observer_Design_Pattern/Observer_Design_Pattern/obj/Debug/net5.0/ref/Observer_Design_Pattern.dll
+/Users/ahmed/Projects/Observer_Design_Pattern/Observer_Design_Pattern/obj/Debug/net5.0/Observer_Design_Pattern.pdb
+/Users/ahmed/Projects/Observer_Design_Pattern/Observer_Design_Pattern/obj/Debug/net5.0/Observer_Design_Pattern.genruntimeconfig.cache

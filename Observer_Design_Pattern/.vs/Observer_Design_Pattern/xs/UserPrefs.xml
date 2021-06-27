@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7E73C4BC-D269-4A28-90ED-1A0CC151EA1D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Observer_Design_Pattern/Program.cs">
+    <Files>
+      <File FileName="Observer_Design_Pattern/Program.cs" Line="78" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Observer_Design_Pattern" expanded="True">
+            <Node name="Observer_Design_Pattern" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Observer__Design__Pattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
